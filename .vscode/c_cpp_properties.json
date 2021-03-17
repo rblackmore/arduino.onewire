@@ -7,10 +7,6 @@
                 "C:\\Program Files (x86)\\Arduino\\tools\\**",
                 "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\**",
                 "${workspaceFolder}/**",
-                "D:\\Code\\Arduino\\1-Wire Stuff\\app\\.lib\\**",
-                "D:\\Code\\Arduino\\1-Wire Stuff\\app\\**",
-                "D:\\OneDrive - RyanBlackmore\\Documents\\Arduino\\libraries\\**",
-                "D:\\OneDrive - RyanBlackmore\\Documents\\Arduino\\libraries\\OneWire",
                 "C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino",
                 "C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/EEPROM/src",
                 "C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/HID/src",
@@ -19,8 +15,7 @@
                 "C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/Wire/src",
                 "C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/SPI/src",
                 "C:\\Program Files (x86)\\Arduino\\hardware\\tools\\**",
-                "C:\\Program Files (x86)\\Arduino\\libraries\\**",
-                "D:\\OneDrive - RyanBlackmore\\Documents\\Arduino\\libraries\\**"
+                "C:\\Program Files (x86)\\Arduino\\libraries\\**"
             ],
             "defines": [
                 "_DEBUG",
